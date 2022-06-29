@@ -10,8 +10,6 @@ redirect_from:
 
 ### About me
 I am an incoming PhD student of [INTR Thrust, HKUST(GZ)](https://hkust-gz.edu.cn/academics/four-hubs/systems-hub/intelligent-transportation "affiliation"), supervised by [Assistant Prof. Xiaotong Sun](https://xiaotongsun.com/ "supervisor"). My research interests include but not limited to Connected and Automated Vehicles, Traffic Simulation, and Surrogate Safety Analysis.<br>
-<br>
-<img src="portrait.jpeg" width = "500" height = "480" alt="Ruoyu Yao" align=center />
 
 ------
 
