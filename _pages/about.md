@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About me
-I am an incoming PhD student of [INTR Thrust, HKUST(GZ)](https://hkust-gz.edu.cn/academics/four-hubs/systems-hub/intelligent-transportation "affiliation"), co-supervised by [Prof. Xiaotong SUN](https://xiaotongsun.com/ "supervisor") and [Prof. Huan YU](https://yuhuanlab.com/ "co-supervisor"). My research interests include but not limited to Connected and Automated Vehicles, Traffic Simulation, and Surrogate Safety Analysis.<br>
+I am an incoming PhD student of [INTR Thrust, HKUST(GZ)](https://hkust-gz.edu.cn/academics/four-hubs/systems-hub/intelligent-transportation "affiliation"), supervised by [Prof. Xiaotong SUN](https://xiaotongsun.com/ "supervisor") and co-supervised by [Prof. Huan YU](https://yuhuanlab.com/ "co-supervisor"). My research interests include but not limited to Connected and Automated Vehicles, Traffic Simulation, and Surrogate Safety Analysis.<br>
 
 ------
 
@@ -24,9 +24,9 @@ I am an incoming PhD student of [INTR Thrust, HKUST(GZ)](https://hkust-gz.edu.cn
 
 ## Recent Publications
 ### Working Papers
-* Lin, Z., He, Z., Yao, R., Liu, T., & Wang, X. Deep Dual Attention Network for Precise Diagosis of COVID-19 From Chest CT Images. Submitted to IEEE Transactions on Artificial Intelligence. (status: under review)
+* Lin, Z., He, Z., **Yao, R.**, Liu, T., & Wang, X. Deep Dual Attention Network for Precise Diagosis of COVID-19 From Chest CT Images. Submitted to IEEE Transactions on Artificial Intelligence. (status: under review)
 
-* Zeng, W., Han, Y., Yao, R., Liu, P., Liao, L., & Xie, S. Optimal Routing and Charging Strategy for Shared Electric Vehicle Service. Submitted to Transportation research part C: emerging technologies. (status: under review) \[[preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015246)\]
+* Zeng, W., Han, Y., **Yao, R.**, Liu, P., Liao, L., & Xie, S. Optimal Routing and Charging Strategy for Shared Electric Vehicle Service. Submitted to Transportation research part C: emerging technologies. (status: under review) \[[preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015246)\]
 
 ### Published / Accepted Papers
-* Yao, R., Zeng, W., Chen, Y., & He, Z. (2021). A deep learning framework for modelling left-turning vehicle behaviour considering diagonal-crossing motorcycle conflicts at mixed-flow intersections. Transportation research part C: emerging technologies, 132, 103415. \[[paper](https://www.sciencedirect.com/science/article/pii/S0968090X21004095?casa_token=8HVnu5TwNUEAAAAA:Xd1y_ol0bzIKDdBls3o5K2fn8BjPebBTJ5OkSHGPVM-c9cvmr9Mr8rWfdih_JHMGwIrHMveR6TI)\]
+* **Yao, R.**, Zeng, W., Chen, Y., & He, Z. (2021). A deep learning framework for modelling left-turning vehicle behaviour considering diagonal-crossing motorcycle conflicts at mixed-flow intersections. Transportation research part C: emerging technologies, 132, 103415. \[[paper](https://www.sciencedirect.com/science/article/pii/S0968090X21004095?casa_token=8HVnu5TwNUEAAAAA:Xd1y_ol0bzIKDdBls3o5K2fn8BjPebBTJ5OkSHGPVM-c9cvmr9Mr8rWfdih_JHMGwIrHMveR6TI)\]
