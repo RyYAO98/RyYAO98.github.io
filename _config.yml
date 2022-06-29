@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "The Homepage of Ruoyu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ruoyu YAO"
-  avatar           : "profile.png"
+  avatar           : "./images/profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
