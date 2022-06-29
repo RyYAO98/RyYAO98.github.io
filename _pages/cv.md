@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 <br>
 <br>
+
 Education
 ======
 * B.Eng. in Automation, Guangdong University of Technology, 2021
