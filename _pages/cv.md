@@ -29,12 +29,13 @@ Publications
 
 Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Generalizable Traffic Simulation, 2022.03-Present
+  * Research Assistant, Advisor: Prof. Zhaoshui HE
 
-* Fall 2015: Research Assistant
-  * Github University
+* Deep Learning for COVID-19 Detection with CT Images, 2021.06-2022.02
+  * Research Assistant, Advisor: Prof. Zhaoshui HE
+  * Duties included: Tagging issues
+
+* Modeling and Simulation of Dynamic Shared Autonomous Taxi Dispatching System, 2019.07-2021.02
+  * Research Assistant, Advisor: Prof. Weiliang ZENG
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
