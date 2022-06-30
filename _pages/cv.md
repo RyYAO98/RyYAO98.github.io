@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Eng. in Automation, Guangdong University of Technology, 2021
-  * GPA: 90.76/100, Ranking: 1/196
+  * GPA: 90.76/100, Ranking in the Major: 1/196
 
 Standard Language Test
 ======
