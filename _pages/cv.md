@@ -26,7 +26,7 @@ Research Experience
 ======
 * Prediction-based Truck Platoon Control, 2022.04-*Present*
   * PhD Student, Advisor: Prof. Xiaotong SUN
-  * Duty: (provided after manuscipt submission...)
+  * Duty: (updated after manuscript submission)
 
 * Federated Learning for Generalizable Traffic Simulation, 2022.03-2022.07 (expected)
   * Research Assistant, Advisor: Prof. Zhaoshui HE
