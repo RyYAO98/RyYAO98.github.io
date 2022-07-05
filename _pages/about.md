@@ -18,7 +18,7 @@ I am an incoming PhD student of [INTR Thrust, HKUST(GZ)](https://hkust-gz.edu.cn
 
 * **2022-01-22** A manuscript submitted to *Transportation Research Part C*. Click [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015246) to view the preprint version.
 
-* **2021-09-22** [One paper](https://www.sciencedirect.com/science/article/pii/S0968090X21004095?casa_token=8HVnu5TwNUEAAAAA:Xd1y_ol0bzIKDdBls3o5K2fn8BjPebBTJ5OkSHGPVM-c9cvmr9Mr8rWfdih_JHMGwIrHMveR6TI) accepted by *Transportation Research Part C*!
+* **2021-09-22** [One paper](https://www.sciencedirect.com/science/article/pii/S0968090X21004095?casa_token=8HVnu5TwNUEAAAAA:Xd1y_ol0bzIKDdBls3o5K2fn8BjPebBTJ5OkSHGPVM-c9cvmr9Mr8rWfdih_JHMGwIrHMveR6TI) accepted to *Transportation Research Part C*!
 
 ------
 
