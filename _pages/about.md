@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About me
-I am an incoming PhD student of [INTR Thrust, HKUST(GZ)](https://hkust-gz.edu.cn/academics/four-hubs/systems-hub/intelligent-transportation "affiliation"), supervised by [Prof. Xiaotong SUN](https://xiaotongsun.com/ "supervisor") and co-supervised by [Prof. Huan YU](https://yuhuanlab.com/ "co-supervisor"). My research interests include Connected and Automated Vehicles, Traffic Simulation and Control, and Surrogate Safety Analysis.<br>
+I am a PhD student at [INTR Thrust, HKUST(GZ)](https://hkust-gz.edu.cn/academics/four-hubs/systems-hub/intelligent-transportation "affiliation"), supervised by [Prof. Xiaotong SUN](https://xiaotongsun.com/ "supervisor") and co-supervised by [Prof. Huan YU](https://yuhuanlab.com/ "co-supervisor"). My research interests include Connected and Automated Vehicles, Traffic Simulation and Control, and Surrogate Safety Analysis.<br>
 
 ------
 
