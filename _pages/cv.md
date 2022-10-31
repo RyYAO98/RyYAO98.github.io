@@ -24,7 +24,7 @@ Publications
 
 Research Experience
 ======
-* Prediction-based Truck Platoon Control, 2022.04-*Present*
+* Prediction-informed Truck Platoon Control, 2022.04-*Present*
   * PhD Student, Advisor: Prof. Xiaotong SUN
   * Duty: (will update after manuscript submission)
 
