@@ -28,7 +28,7 @@ Research Experience
 ======
 * **Uncertainty-aware Autonomous Driving in Lane-changing Scenarios, 2022.09-*Present***
   * Position: PhD Student, Advisor: Prof. Xiaotong SUN
-  * Developed a two-dimensional behavior prediction and motion planning pipeline for implementing autonomous driving in lane-changing scenarios, with a specialty of tackling behavior prediction uncertainties for improving planning safety.
+  * Developed a two-dimensional behavior prediction and motion planning pipeline for implementing autonomous driving in lane-changing scenarios, with a specialty of tackling behavior prediction uncertainties for enhancing planning safety.
   * A deep learning-based model is proposed to predict lane-changing intention and intention-conditioned future trajectories in a hierarchical and stochastic manner.
   * A discrete-time finite-horizon motion planning problem is formulated, where a non-Gaussian safety constraint is constructed with higher-level intention uncertainty and lower-level trajectory uncertainty in the prediction outputs.
   * The planning problem is solved via our improved CILQR algorithm that employs soft and hard barrier functions in separate optimization stages.
