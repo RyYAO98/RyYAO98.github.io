@@ -14,8 +14,10 @@ Education
 * B.Eng. in Automation, Guangdong University of Technology, 2021
   * GPA: 90.76/100, Ranking in the Major: 1/196
 
-Publications
+Publications/Working papers
 ======
+**Yao, R.**, Sun, X.\*. Uncertainty-aware Autonomous Driving in Lane-changing Scenarios: Behavior Prediction and Motion Planning. Submitted to *ICRA 2024*.
+
 * Lin, Z., He, Z.\*, **Yao, R.**, Wang, X., Liu, T., Deng, Y., & Xie, S. (2022). Deep dual attention network for precise diagnosis of covid-19 from chest ct images. IEEE Transactions on Artificial Intelligence. [[paper](https://ieeexplore.ieee.org/abstract/document/9965606?casa_token=1YA5Dal6dGUAAAAA:VTT0zr6uE6-kgGUJYoEMLy5EyEVd2LNQ0WCjsIPttDPs1kwI41yAqayR8YCZf5df0iyA9JMbpywW2A)]
 
 * Zeng, W.\*, Han, Y., **Yao, R.**, Liu, P., Liao, L., & Xie, S. Optimal Routing and Charging Strategy for Shared Electric Vehicle Service. Submitted to *Transportation research part C: emerging technologies*. (status: under review) \[[preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015246)\]
