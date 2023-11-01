@@ -26,11 +26,11 @@ Publications/Working papers
 
 Research Experience
 ======
-* Prediction-informed Truck Platoon Control, 2022.04-*Present*
+* Uncertainty-aware Autonomous Driving in Lane-changing Scenarios, 2022.09-*Present*
   * PhD Student, Advisor: Prof. Xiaotong SUN
-  * Duty: (will update after manuscript submission)
+  * Duty: Developed a two-dimensional behavior prediction and motion planning pipeline for implementing autonomous driving in lane-changing scenarios, with a specialty of tackling behavior prediction uncertainties for improving planning safety. Firstly, a deep learning-based behavior prediction model is proposed to infer lane-changing intention and intention-conditioned future trajectories in a stochastic manner. Secondly, a discrete-time finite-horizon motion planning problem is formulated, where a non-Gaussian safety constraint is constructed with higher-level intention uncertainty and lower-level trajectory uncertainty in the prediction outputs. Thirdly, the planning problem is solved by an improved constrained iterative linear quadratic regulator that makes use of both soft and hard barrier functions. Finally, evaluations using INTERACTION and HighD datasets demonstrate the reliability of the uncertainty-aware planning pipeline.
 
-* Federated Learning for Generalizable Traffic Simulation, 2022.03-2022.07 (expected)
+* Federated Learning for Generalizable Traffic Simulation, 2022.03-2022.07
   * Research Assistant, Advisor: Prof. Zhaoshui HE
   * Duty: Independently implemented trajectory-prediction backbone VectorNet on INTERACTION benchmark. Developed a federated learning scheme for improving the generalizability of deep learning models when applied to traffic simulation in multiple variant sites.
 
