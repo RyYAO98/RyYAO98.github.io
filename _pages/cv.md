@@ -36,7 +36,7 @@ Research Experience
 
 * Deep Learning for COVID-19 Detection with CT Images, 2021.06-2022.02
   * Research Assistant, Advisor: Prof. Zhaoshui HE
-  * Description: Explored the availability of ResNet50, DenseNet161, EfficientNet-B7 and GhostNet on four COVID-19 classification benchmarks (e.g. COVIDx-CT, HUST-19). Cooperated in proposing sample separation strategy that converts conventional training into a two-stage training, boosted the accuracy by up to 9.46% on a single model.
+  * Description: Explored the availability of ResNet50, DenseNet161, EfficientNet-B7 and GhostNet on four COVID-19 classification benchmarks (e.g. COVIDx-CT, HUST-19). Cooperated in proposing sample separation strategy that converts the conventional training into a two-stage training, boosted the accuracy by up to 9.46% on a single model.
 
 * Modeling and Simulation of Dynamic Shared Autonomous Taxi Dispatching System, 2019.07-2021.02
   * Research Assistant, Advisor: Prof. Weiliang ZENG
