@@ -30,7 +30,7 @@ Research Experience
   * Position: PhD Student, Advisor: Prof. Xiaotong SUN
   * Developed a two-dimensional behavior prediction and motion planning pipeline for implementing autonomous driving in lane-changing scenarios, with a specialty of tackling behavior prediction uncertainties for enhancing planning safety.
   * A deep learning-based model is proposed to predict lane-changing intention and intention-conditioned future trajectories in a hierarchical and stochastic manner.
-  * A discrete-time finite-horizon motion planning problem is formulated, where non-Gaussian safety constraints are constructed with higher-level intention uncertainty and lower-level trajectory uncertainty in the prediction outputs. Specifically, three different schemes are investigated to address the intention uncertainty with respective preferences on the expectation, robustness and adaptiveness, while the trajectory uncertainty is handled using a chance constraint formulation.
+  * A discrete-time finite-horizon motion planning problem is formulated, where non-Gaussian safety constraints are constructed with higher-level intention uncertainty and lower-level trajectory uncertainty in the prediction outputs. Three different schemes are investigated to address the intention uncertainty with respective preferences on the expectation, robustness and adaptiveness, while the trajectory uncertainty is handled using a chance constraint formulation.
   * The planning problem is solved via our improved CILQR algorithm that employs soft and hard barrier functions in separate optimization stages.
   * Evaluations using INTERACTION and HighD datasets demonstrate the safety performance of the uncertainty-aware planning pipeline.
 
