@@ -28,6 +28,8 @@ I am a PhD student at [INTR Thrust, HKUST(GZ)](https://hkust-gz.edu.cn/academics
 
 ## Recent Publications
 ### Working Papers
+* **Yao, R.**, & Sun, X.\*. Uncertainty-aware Autonomous Driving in Lane-changing Scenarios: Behavior Prediction and Motion Planning. Submitted to *ICRA 2024*. (status: under review)
+
 * Zeng, W.\*, Han, Y., **Yao, R.**, Liu, P., Liao, L., & Xie, S. Optimal Routing and Charging Strategy for Shared Electric Vehicle Service. Submitted to *Transportation research part C: emerging technologies*. (status: under review) \[[preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015246)\]
 
 ### Published / Accepted Papers
