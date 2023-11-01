@@ -16,7 +16,7 @@ Education
 
 Publications/Working papers
 ======
-**Yao, R.**, Sun, X.\*. Uncertainty-aware Autonomous Driving in Lane-changing Scenarios: Behavior Prediction and Motion Planning. Submitted to *ICRA 2024*.
+* **Yao, R.**, Sun, X.\*. Uncertainty-aware Autonomous Driving in Lane-changing Scenarios: Behavior Prediction and Motion Planning. Submitted to *ICRA 2024*.
 
 * Lin, Z., He, Z.\*, **Yao, R.**, Wang, X., Liu, T., Deng, Y., & Xie, S. (2022). Deep dual attention network for precise diagnosis of covid-19 from chest ct images. IEEE Transactions on Artificial Intelligence. [[paper](https://ieeexplore.ieee.org/abstract/document/9965606?casa_token=1YA5Dal6dGUAAAAA:VTT0zr6uE6-kgGUJYoEMLy5EyEVd2LNQ0WCjsIPttDPs1kwI41yAqayR8YCZf5df0iyA9JMbpywW2A)]
 
