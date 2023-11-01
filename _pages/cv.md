@@ -65,7 +65,7 @@ Standard Language Test
 
 Computer Skills
 ======
-* Programming languages: Python, C
-* Machine learning & Optimization framework: PyTorch, NumPy, OpenAI Gym, CVXPY, GAMS
+* Programming Languages: Python, C
+* Machine Learning & Optimization Frameworks: PyTorch, NumPy, OpenAI Gym, CVXPY, GAMS
 
 *updated in Oct. 2023*
