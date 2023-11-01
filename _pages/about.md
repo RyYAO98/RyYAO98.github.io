@@ -9,12 +9,14 @@ redirect_from:
 ---
 
 ## About me
-I am a PhD student at [INTR Thrust, HKUST(GZ)](https://hkust-gz.edu.cn/academics/four-hubs/systems-hub/intelligent-transportation "affiliation"), supervised by [Prof. Xiaotong SUN](https://xiaotongsun.com/ "supervisor"). My research interests include Connected and Automated Vehicles, Traffic Simulation and Control, and Surrogate Safety Analysis.<br>
+I am a PhD student at [INTR Thrust, HKUST(GZ)](https://hkust-gz.edu.cn/academics/four-hubs/systems-hub/intelligent-transportation "affiliation"), supervised by [Prof. Xiaotong SUN](https://xiaotongsun.com/ "supervisor"). My research interests include Autonomous Vehicles, Traffic Simulation, and Pattern Recognition.<br>
 
 ------
 
 ## News
-* **2022-11-21** One paper accepted to *IEEE Transactions on Artificial Intelligence*.
+* **2023-11-01** A manuscript submitted to *ICRA 2024*.
+
+* **2022-11-21** [One paper](https://ieeexplore.ieee.org/abstract/document/9965606?casa_token=1YA5Dal6dGUAAAAA:VTT0zr6uE6-kgGUJYoEMLy5EyEVd2LNQ0WCjsIPttDPs1kwI41yAqayR8YCZf5df0iyA9JMbpywW2A) accepted to *IEEE Transactions on Artificial Intelligence*.
 
 * **2022-01-27** Addmission to HKUST as a PhD student, under the Guangzhou Pilot Scheme. Congrats!
 
