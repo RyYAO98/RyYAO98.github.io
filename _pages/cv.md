@@ -63,4 +63,9 @@ Standard Language Test
 * IELTS 7.0 (R-8.5, L-7.5, S-6.0, W-6.5), Nov. 2021
 * IELTS 7.0 (R-8.0, L-8.0, S-6.5, W-6.0), Aug. 2019
 
+Computer Skills
+======
+* Programming languages: Python, C
+* Machine learning & Optimization framework: PyTorch, NumPy, OpenAI Gym, CVXPY, GAMS
+
 *updated in Oct. 2023*
