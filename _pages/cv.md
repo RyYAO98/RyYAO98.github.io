@@ -36,15 +36,20 @@ Research Experience
 
 * Federated Learning for Generalizable Traffic Simulation, 2022.03-2022.07
   * Research Assistant, Advisor: Prof. Zhaoshui HE
-  * Description: Independently implemented trajectory-prediction backbone VectorNet on INTERACTION benchmark. Developed a federated learning scheme for improving the generalizability of deep learning models when applied to traffic simulation in multiple variant sites.
+  * Independently implemented trajectory-prediction backbone VectorNet on INTERACTION benchmark.
+  * Developed a federated learning scheme for improving the generalizability of deep learning models when applied to traffic simulation in multiple variant sites.
 
 * Deep Learning for COVID-19 Detection with CT Images, 2021.06-2022.02
   * Research Assistant, Advisor: Prof. Zhaoshui HE
-  * Description: Explored the availability of ResNet50, DenseNet161, EfficientNet-B7 and GhostNet on four COVID-19 classification benchmarks (e.g. COVIDx-CT, HUST-19). Cooperated in proposing sample separation strategy that converts the conventional training into a two-stage training, boosted the accuracy by up to 9.46% on a single model.
+  * Explored the availability of ResNet50, DenseNet161, EfficientNet-B7 and GhostNet on four COVID-19 classification benchmarks (e.g. COVIDx-CT, HUST-19).
+  * Cooperated in proposing sample separation strategy that converts the conventional training into a two-stage training, boosted the accuracy by up to 9.46% on a single model.
+  * Assisted in revising and implementing the Deep Dual Attention Network for COVID-19 detection from CT images.
 
 * Modeling and Simulation of Dynamic Shared Autonomous Taxi Dispatching System, 2019.07-2021.02
   * Research Assistant, Advisor: Prof. Weiliang ZENG
-  * Description: Independently proposed deep learning framework DIIA-Net for modelling vehicle turning behaviour at mixed-flow intersections. A LSTM-based network is employed to encode vehicle historical motion features. Then, each vehicle’s potential target lanes are identified with a probabilistic method, followed by a pooling module to extract dynamic intention features. GAT and a synthesized network are introduced to model homogeneous interaction and heterogeneous interaction respectively. Finally, multiple kinds of obtained features are sent to a LSTM-based decoder, where both future displacement and body orientation are generated. Independently implemented the proposed network with PyTorch framework, which achieved state-of-the-art performance compared with En-Dec baseline, VP-LSTM and Conv-LSTM.
+  * Independently proposed deep learning framework DIIA-Net for modelling vehicle turning behaviour at mixed-flow intersections.
+  * A LSTM-based network is employed to encode vehicle historical motion features. Then, each vehicle’s potential target lanes are identified with a probabilistic method, followed by a pooling module to extract dynamic intention features. GAT and a synthesized network are introduced to model homogeneous interaction and heterogeneous interaction respectively. Finally, multiple kinds of obtained features are sent to a LSTM-based decoder, where both future displacement and body orientation are generated.
+  * Independently implemented the proposed network with PyTorch framework, which achieved state-of-the-art performance compared with En-Dec baseline, VP-LSTM and Conv-LSTM.
 
 Selected Honors & Awards
 ======
