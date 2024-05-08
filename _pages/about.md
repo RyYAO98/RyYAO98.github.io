@@ -14,9 +14,7 @@ I am a PhD student at [ROAS Thrust, HKUST(GZ)](https://www.hkust-gz.edu.cn/acade
 ------
 
 ## News
-* **2024-03-31** A manuscript accepted to *IEEE IV 2024*.
-
-* **2023-09-14** A manuscript submitted to *ICRA 2024*.
+* **2024-03-31** One conference paper accepted to *IEEE Intelligent Vehicle Symposium 2024*.
 
 * **2022-11-21** [One paper](https://ieeexplore.ieee.org/abstract/document/9965606?casa_token=1YA5Dal6dGUAAAAA:VTT0zr6uE6-kgGUJYoEMLy5EyEVd2LNQ0WCjsIPttDPs1kwI41yAqayR8YCZf5df0iyA9JMbpywW2A) accepted to *IEEE Transactions on Artificial Intelligence*.
 
