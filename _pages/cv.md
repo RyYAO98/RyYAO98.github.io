@@ -16,7 +16,7 @@ Education
 
 Publications/Working papers
 ======
-* **Yao, R.**, & Sun, X.\*. Uncertainty-aware Autonomous Driving in Lane-changing Scenarios: Behavior Prediction and Motion Planning. Submitted to *IEEE IV 2024*. (status: accepted)
+* **Yao, R.**, & Sun, X.\*. Hierarchical Uncertainty-aware Autonomous Driving in Lane-changing Scenarios: Behavior Prediction and Motion Planning. Submitted to *IEEE IV 2024*. (status: accepted)
 
 * Lin, Z., He, Z.\*, **Yao, R.**, Wang, X., Liu, T., Deng, Y., & Xie, S. (2022). Deep dual attention network for precise diagnosis of covid-19 from chest ct images. IEEE Transactions on Artificial Intelligence. [[paper](https://ieeexplore.ieee.org/abstract/document/9965606?casa_token=1YA5Dal6dGUAAAAA:VTT0zr6uE6-kgGUJYoEMLy5EyEVd2LNQ0WCjsIPttDPs1kwI41yAqayR8YCZf5df0iyA9JMbpywW2A)]
 
@@ -26,7 +26,11 @@ Publications/Working papers
 
 Research Experience
 ======
-* **Uncertainty-aware Autonomous Driving in Lane-changing Scenarios, 2022.09-*Present***
+* **Large Language Model-based Scene Understanding for Optimization-based Motion Planning, 2024.02-*present***
+  * Position: PhD Student, Advisor: Prof. Jun MA
+  * (Coming soon...)
+
+* **Uncertainty-aware Autonomous Driving in Lane-changing Scenarios, 2022.09-2023.12**
   * Position: PhD Student, Advisor: Prof. Xiaotong SUN
   * Developed a two-dimensional behavior prediction and motion planning pipeline for implementing autonomous driving in lane-changing scenarios, with a specialty of tackling behavior prediction uncertainties for enhancing planning safety.
   * A deep learning-based model is proposed to predict lane-changing intention and intention-conditioned future trajectories in a hierarchical and stochastic manner.
@@ -57,6 +61,11 @@ Selected Honors & Awards
 * Academic Outstanding Scholarship (twice), 2019 & 2020
 * First-class Excellent Student Scholarship, 2020
 * Second-class Excellent Student Scholarship (twice), 2018 & 2019
+
+Professional Services
+======
+* Reviewer: IEEE IROS
+* Teaching Assistant: HKUST(GZ) INTR5210 - Game Theoretic Methods in Transportation (Instructor: Prof. XIaotong SUN)
 
 Standard Language Test
 ======
