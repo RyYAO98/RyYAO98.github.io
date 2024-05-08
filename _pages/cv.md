@@ -65,7 +65,7 @@ Selected Honors & Awards
 Professional Services
 ======
 * Reviewer: IEEE IROS
-* Teaching Assistant: HKUST(GZ) INTR5210 - Game Theoretic Methods in Transportation (Instructor: Prof. XIaotong SUN)
+* Teaching Assistant: HKUST(GZ) INTR5210 - Game Theoretical Methods in Transportation (Instructor: Prof. XIaotong SUN)
 
 Standard Language Test
 ======
@@ -77,4 +77,4 @@ Computer Skills
 * Programming Languages: Python, C
 * Machine Learning & Optimization Frameworks: PyTorch, NumPy, OpenAI Gym, CVXPY, GAMS
 
-*updated in Oct. 2023*
+*updated in May. 2024*
