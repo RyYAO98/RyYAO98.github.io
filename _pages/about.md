@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About me
-I am a PhD student at [ROAS Thrust, HKUST(GZ)](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/robotics-and-autonomous-systems/ "affiliation"), supervised by [Prof. Jun MA](https://scholar.google.com/citations?hl=zh-CN&user=8VepsVAAAAAJ&inst=2086321694089819457 "supervisor"). My research interests include Autonomous Vehicles, Traffic Simulation, and Pattern Recognition.<br>
+I am a PhD student at [ROAS Thrust, HKUST(GZ)](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/robotics-and-autonomous-systems/ "affiliation"), supervised by [Prof. Jun MA](https://personal.hkust-gz.edu.cn/junma/index.html). My research interests center around motion planning in Autonomous Driving and Robotics.<br>
 
 ------
 
