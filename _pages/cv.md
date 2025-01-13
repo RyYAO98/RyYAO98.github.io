@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Candidate in Robotics and Autonomous Systems, The Hong Kong University of Science and Technology (Guangzhou), 2022-*present*
+* Ph.D. Candidate in Robotics and Autonomous Systems, HKUST(GZ), 2022-*present*
 
 * B.Eng. in Automation, Guangdong University of Technology, 2017-2021
   * GPA: 90.76/100, Ranking in the Major: 1/196
@@ -34,7 +34,9 @@ Research Experience
 ======
 * **Confidence-Aware Autonomous Driving with Large Multimodal Model, 2024.02-2024.11**
   * Position: PhD Student, Advisor: Prof. Jun MA
-  * (Coming soon...)
+  * Developed a confidence-aware autonomous driving framework guided by an LMM to enhance the robustness of LMM-empowered AV systems, marking the first study to address the uncertainty of the decision made by LMMs in autonomous driving.
+  * A guided trajectory generation and hierarchical refinement module is proposed to obtain the best trajectory by incorporating confidence in decision-making, utility in motion planning, and decision-planning consistency, which tackles long-tail challenges inherent in traditional scoring-based methods.
+  * Comprehensive evaluations in nuPlan closed-loop simulation environments demonstrate the effectiveness of our approach in achieving reliable and flexible driving performance.
 
 * **Uncertainty-aware Autonomous Driving in Lane-changing Scenarios, 2022.09-2023.12**
   * Position: PhD Student, Advisor: Prof. Xiaotong SUN
@@ -72,8 +74,8 @@ Professional Services
 ======
 * Reviewer: IEEE IROS
 * Teaching Assistant:
-    HKUST(GZ) ROAS6000I - Optimal Control Systems (Instructor: Prof. Jun MA)
-    HKUST(GZ) INTR5210 - Game Theoretical Methods in Transportation (Instructor: Prof. Xiaotong SUN)</td>
+  * HKUST(GZ) ROAS6000I - Optimal Control Systems (Instructor: Prof. Jun MA)
+  * HKUST(GZ) INTR5210 - Game Theoretical Methods in Transportation (Instructor: Prof. Xiaotong SUN)
 
 Standard Language Test
 ======
