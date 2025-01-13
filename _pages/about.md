@@ -30,15 +30,15 @@ I am a PhD student at [ROAS Thrust, HKUST(GZ)](https://www.hkust-gz.edu.cn/acade
 
 ## Recent Publications
 ### Preprints
-* **Yao, R.**, Wang, Y., Liu, H., Yang, R., Peng, Z., Zhu, L., & Ma, J.\* (2024). CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model. arXiv preprint arXiv:2412.04209.
+* **Yao, R.**, Wang, Y., Liu, H., Yang, R., Peng, Z., Zhu, L., & Ma, J.\* (2024). CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model. arXiv preprint arXiv:2412.04209.[[link](https://arxiv.org/abs/2412.04209)]
 
-* Liu, H., **Yao, R.**, Huang, Z., Shen, S., & Ma, J.\* (2024). LMMCoDrive: Cooperative Driving with Large Multimodal Model. arXiv preprint arXiv:2409.11981.
+* Liu, H., **Yao, R.**, Huang, Z., Shen, S., & Ma, J.\* (2024). LMMCoDrive: Cooperative Driving with Large Multimodal Model. arXiv preprint arXiv:2409.11981.[[link](https://arxiv.org/abs/2409.11981)]
 
 ### Published / Accepted Papers
-* **Yao, R.**, & Sun, X.\* (2025). Hierarchical prediction uncertainty-aware motion planning for autonomous driving in lane-changing scenarios. Transportation Research Part C: Emerging Technologies, 171, 104962.
+* **Yao, R.**, & Sun, X.\* (2025). Hierarchical prediction uncertainty-aware motion planning for autonomous driving in lane-changing scenarios. Transportation Research Part C: Emerging Technologies, 171, 104962.[[link](https://www.sciencedirect.com/science/article/pii/S0968090X24004832)]
 
-* **Yao, R.**, & Sun, X.\* (2024, June). Hierarchical Uncertainty-aware Autonomous Driving in Lane-changing Scenarios: Behavior Prediction and Motion Planning. In 2024 IEEE Intelligent Vehicles Symposium (IV) (pp. 715-721). IEEE.
+* **Yao, R.**, & Sun, X.\* (2024, June). Hierarchical Uncertainty-aware Autonomous Driving in Lane-changing Scenarios: Behavior Prediction and Motion Planning. In 2024 IEEE Intelligent Vehicles Symposium (IV) (pp. 715-721). IEEE.[[link](https://ieeexplore.ieee.org/abstract/document/10588739?casa_token=7USZ_-HCQKQAAAAA:8ZIXXdekEba2UFFe0eq16kJSBv-UbrG3P-0fXbPbPmNqagbRBp1WgN3Zpd0QYvAWS63YyS85oalx)]
 
-* Lin, Z., He, Z.\*, **Yao, R.**, Wang, X., Liu, T., Deng, Y., & Xie, S. (2022). Deep dual attention network for precise diagnosis of covid-19 from chest ct images. IEEE Transactions on Artificial Intelligence. [[paper](https://ieeexplore.ieee.org/abstract/document/9965606?casa_token=1YA5Dal6dGUAAAAA:VTT0zr6uE6-kgGUJYoEMLy5EyEVd2LNQ0WCjsIPttDPs1kwI41yAqayR8YCZf5df0iyA9JMbpywW2A)]
+* Lin, Z., He, Z.\*, **Yao, R.**, Wang, X., Liu, T., Deng, Y., & Xie, S. (2022). Deep dual attention network for precise diagnosis of covid-19 from chest ct images. IEEE Transactions on Artificial Intelligence. [[link](https://ieeexplore.ieee.org/abstract/document/9965606?casa_token=1YA5Dal6dGUAAAAA:VTT0zr6uE6-kgGUJYoEMLy5EyEVd2LNQ0WCjsIPttDPs1kwI41yAqayR8YCZf5df0iyA9JMbpywW2A)]
 
-* **Yao, R.**, Zeng, W.\*, Chen, Y., & He, Z. (2021). A deep learning framework for modelling left-turning vehicle behaviour considering diagonal-crossing motorcycle conflicts at mixed-flow intersections. *Transportation research part C: emerging technologies*, 132, 103415. \[[paper](https://www.sciencedirect.com/science/article/pii/S0968090X21004095?casa_token=8HVnu5TwNUEAAAAA:Xd1y_ol0bzIKDdBls3o5K2fn8BjPebBTJ5OkSHGPVM-c9cvmr9Mr8rWfdih_JHMGwIrHMveR6TI)\]
+* **Yao, R.**, Zeng, W.\*, Chen, Y., & He, Z. (2021). A deep learning framework for modelling left-turning vehicle behaviour considering diagonal-crossing motorcycle conflicts at mixed-flow intersections. *Transportation research part C: emerging technologies*, 132, 103415. \[[link](https://www.sciencedirect.com/science/article/pii/S0968090X21004095?casa_token=8HVnu5TwNUEAAAAA:Xd1y_ol0bzIKDdBls3o5K2fn8BjPebBTJ5OkSHGPVM-c9cvmr9Mr8rWfdih_JHMGwIrHMveR6TI)\]
