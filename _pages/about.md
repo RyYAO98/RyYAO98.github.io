@@ -14,9 +14,9 @@ I am a PhD student at [ROAS Thrust, HKUST(GZ)](https://www.hkust-gz.edu.cn/acade
 ------
 
 ## News
-* **2024-12-02** [One paper](https://www.sciencedirect.com/science/article/pii/S0968090X24004832) accepted to *Transportation Research Part C*.
+* **2024-12-02** Our paper [Hierarchical prediction uncertainty-aware motion planning for autonomous driving in lane-changing scenarios](https://www.sciencedirect.com/science/article/pii/S0968090X24004832) accepted to *Transportation Research Part C*.
 
-* **2024-03-31** One conference paper accepted to *IEEE Intelligent Vehicle Symposium 2024*.
+* **2024-03-31** Our conference paper [Hierarchical Uncertainty-aware Autonomous Driving in Lane-changing Scenarios: Behavior Prediction and Motion Planning](https://ieeexplore.ieee.org/abstract/document/10588739?casa_token=r2yoB5FNN8kAAAAA:y3yRtz3S-DW77kyeuzwzGrtvWoUt9ATL2g5uiz2l7WEi1fQAHE8y_XNDeCx9lJRXM4ojxPKduyP9lA) accepted to *IEEE Intelligent Vehicle Symposium 2024*.
 
 * **2022-11-21** [One paper](https://ieeexplore.ieee.org/abstract/document/9965606?casa_token=1YA5Dal6dGUAAAAA:VTT0zr6uE6-kgGUJYoEMLy5EyEVd2LNQ0WCjsIPttDPs1kwI41yAqayR8YCZf5df0iyA9JMbpywW2A) accepted to *IEEE Transactions on Artificial Intelligence*.
 
@@ -29,6 +29,11 @@ I am a PhD student at [ROAS Thrust, HKUST(GZ)](https://www.hkust-gz.edu.cn/acade
 ------
 
 ## Recent Publications
+### Preprints
+* **Yao, R.**, Wang, Y., Liu, H., Yang, R., Peng, Z., Zhu, L., & Ma, J.\* (2024). CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model. arXiv preprint arXiv:2412.04209.
+
+* Liu, H., **Yao, R.**, Huang, Z., Shen, S., & Ma, J.\* (2024). LMMCoDrive: Cooperative Driving with Large Multimodal Model. arXiv preprint arXiv:2409.11981.
+
 ### Published / Accepted Papers
 * **Yao, R.**, & Sun, X.\* (2025). Hierarchical prediction uncertainty-aware motion planning for autonomous driving in lane-changing scenarios. Transportation Research Part C: Emerging Technologies, 171, 104962.
 
