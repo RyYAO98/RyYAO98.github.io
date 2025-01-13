@@ -11,22 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Automation, Guangdong University of Technology, 2021
+* Ph.D. Candidate in Robotics and Autonomous Systems, The Hong Kong University of Science and Technology (Guangzhou), 2022-*present*
+
+* B.Eng. in Automation, Guangdong University of Technology, 2017-2021
   * GPA: 90.76/100, Ranking in the Major: 1/196
 
 Publications/Working papers
 ======
-* **Yao, R.**, & Sun, X.\*. Hierarchical Uncertainty-aware Autonomous Driving in Lane-changing Scenarios: Behavior Prediction and Motion Planning. Submitted to *IEEE IV 2024*. (status: accepted)
+* **Yao, R.**, Wang, Y., Liu, H., Yang, R., Peng, Z., Zhu, L., & Ma, J.\* (2024). CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model. arXiv preprint arXiv:2412.04209.[[link](https://arxiv.org/abs/2412.04209)]
 
-* Lin, Z., He, Z.\*, **Yao, R.**, Wang, X., Liu, T., Deng, Y., & Xie, S. (2022). Deep dual attention network for precise diagnosis of covid-19 from chest ct images. IEEE Transactions on Artificial Intelligence. [[paper](https://ieeexplore.ieee.org/abstract/document/9965606?casa_token=1YA5Dal6dGUAAAAA:VTT0zr6uE6-kgGUJYoEMLy5EyEVd2LNQ0WCjsIPttDPs1kwI41yAqayR8YCZf5df0iyA9JMbpywW2A)]
+* Liu, H., **Yao, R.**, Huang, Z., Shen, S., & Ma, J.\* (2024). LMMCoDrive: Cooperative Driving with Large Multimodal Model. arXiv preprint arXiv:2409.11981.[[link](https://arxiv.org/abs/2409.11981)]
 
-* Zeng, W.\*, Han, Y., **Yao, R.**, Liu, P., Liao, L., & Xie, S. Optimal Routing and Charging Strategy for Shared Electric Vehicle Service. Submitted to *Transportation research part C: emerging technologies*. (status: under review) \[[preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015246)\]
+* **Yao, R.**, & Sun, X.\* (2025). Hierarchical prediction uncertainty-aware motion planning for autonomous driving in lane-changing scenarios. Transportation Research Part C: Emerging Technologies, 171, 104962.[[link](https://www.sciencedirect.com/science/article/pii/S0968090X24004832)]
 
-* **Yao, R.**, Zeng, W.\*, Chen, Y., & He, Z. (2021). A deep learning framework for modelling left-turning vehicle behaviour considering diagonal-crossing motorcycle conflicts at mixed-flow intersections. *Transportation research part C: emerging technologies*, 132, 103415. \[[paper](https://www.sciencedirect.com/science/article/pii/S0968090X21004095?casa_token=8HVnu5TwNUEAAAAA:Xd1y_ol0bzIKDdBls3o5K2fn8BjPebBTJ5OkSHGPVM-c9cvmr9Mr8rWfdih_JHMGwIrHMveR6TI)\]
+* **Yao, R.**, & Sun, X.\* (2024, June). Hierarchical Uncertainty-aware Autonomous Driving in Lane-changing Scenarios: Behavior Prediction and Motion Planning. In 2024 IEEE Intelligent Vehicles Symposium (IV) (pp. 715-721). IEEE.[[link](https://ieeexplore.ieee.org/abstract/document/10588739?casa_token=7USZ_-HCQKQAAAAA:8ZIXXdekEba2UFFe0eq16kJSBv-UbrG3P-0fXbPbPmNqagbRBp1WgN3Zpd0QYvAWS63YyS85oalx)]
+
+* Lin, Z., He, Z.\*, **Yao, R.**, Wang, X., Liu, T., Deng, Y., & Xie, S. (2022). Deep dual attention network for precise diagnosis of covid-19 from chest ct images. IEEE Transactions on Artificial Intelligence. [[link](https://ieeexplore.ieee.org/abstract/document/9965606?casa_token=1YA5Dal6dGUAAAAA:VTT0zr6uE6-kgGUJYoEMLy5EyEVd2LNQ0WCjsIPttDPs1kwI41yAqayR8YCZf5df0iyA9JMbpywW2A)]
+
+* **Yao, R.**, Zeng, W.\*, Chen, Y., & He, Z. (2021). A deep learning framework for modelling left-turning vehicle behaviour considering diagonal-crossing motorcycle conflicts at mixed-flow intersections. *Transportation research part C: emerging technologies*, 132, 103415. \[[link](https://www.sciencedirect.com/science/article/pii/S0968090X21004095?casa_token=8HVnu5TwNUEAAAAA:Xd1y_ol0bzIKDdBls3o5K2fn8BjPebBTJ5OkSHGPVM-c9cvmr9Mr8rWfdih_JHMGwIrHMveR6TI)\]
 
 Research Experience
 ======
-* **Large Language Model-based Scene Understanding for Optimization-based Motion Planning, 2024.02-*present***
+* **Confidence-Aware Autonomous Driving with Large Multimodal Model, 2024.02-2024.11**
   * Position: PhD Student, Advisor: Prof. Jun MA
   * (Coming soon...)
 
@@ -65,7 +71,7 @@ Selected Honors & Awards
 Professional Services
 ======
 * Reviewer: IEEE IROS
-* Teaching Assistant: HKUST(GZ) INTR5210 - Game Theoretical Methods in Transportation (Instructor: Prof. XIaotong SUN)
+* Teaching Assistant: HKUST(GZ) ROAS60OOI - Optimal Control Systems (Instructor: Prof. Jun MA), HKUST(GZ) INTR5210 - Game Theoretical Methods in Transportation (Instructor: Prof. Xiaotong SUN)
 
 Standard Language Test
 ======
@@ -77,4 +83,4 @@ Computer Skills
 * Programming Languages: Python, C
 * Machine Learning & Optimization Frameworks: PyTorch, NumPy, OpenAI Gym, CVXPY, GAMS
 
-*updated in May. 2024*
+*updated in JAN. 2025*
