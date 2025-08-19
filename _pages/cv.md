@@ -95,4 +95,4 @@ Computer Skills
 * Programming Languages: Python, C
 * Machine Learning & Optimization Frameworks: PyTorch, NumPy, OpenAI Gym, CVXPY, GAMS
 
-*updated in JAN. 2025*
+*updated in AUG. 2025*
