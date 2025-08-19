@@ -18,9 +18,17 @@ Education
 
 Publications/Working papers
 ======
-* **Yao, R.**, Wang, Y., Liu, H., Yang, R., Peng, Z., Zhu, L., & Ma, J.\* (2024). CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model. arXiv preprint arXiv:2412.04209.[[link](https://arxiv.org/abs/2412.04209)]
+Peng, M., Xie, Y., Guo, X., **Yao, R.**, Yang, H., Ma, J.\* (2025). LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios. [[link](https://arxiv.org/abs/2505.11247)] (under review by Transportation Research Part C: Emerging Technologies)
 
-* Liu, H., **Yao, R.**, Huang, Z., Shen, S., & Ma, J.\* (2024). LMMCoDrive: Cooperative Driving with Large Multimodal Model. arXiv preprint arXiv:2409.11981.[[link](https://arxiv.org/abs/2409.11981)]
+Peng, M., **Yao, R.**, Guo, X., Xie, Y., Chen, X., Ma, J.\* (2025). Safety-Critical Traffic Simulation with Guided Latent Diffusion Model. [[link](https://arxiv.org/abs/2505.00515)] (accepted to ITSC 2025)
+
+Liu, P., Liu, X., **Yao, R.**, Liu, J., Meng, S., Wang, D., Ma, J.\* (2025). HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation. [[link](https://arxiv.org/abs/2504.12330)] (accepted to ACMMM 2025)
+
+Liu, H., **Yao, R.**, Liu, W., Huang, Z, Shen, S., & Ma, J.\* (2025). CoDriveVLM: VLM-Enhanced Urban Cooperative Dispatching and Motion Planning for Future Autonomous Mobility on Demand Systems. [[link](https://arxiv.org/abs/2501.06132)] (under review by IEEE Transactions on Intelligent Transportation Systems)
+
+* **Yao, R.**, Wang, Y., Liu, H., Yang, R., Peng, Z., Zhu, L., & Ma, J.\* (2024). CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model. arXiv preprint arXiv:2412.04209.[[link](https://arxiv.org/abs/2412.04209)] (under review by IEEE Transactions on Vehicular Technology)
+
+* Liu, H., **Yao, R.**, Huang, Z., Shen, S., & Ma, J.\* (2024). LMMCoDrive: Cooperative Driving with Large Multimodal Model. arXiv preprint arXiv:2409.11981.[[link](https://arxiv.org/abs/2409.11981)] (accepted to IROS 2025)
 
 * **Yao, R.**, & Sun, X.\* (2025). Hierarchical prediction uncertainty-aware motion planning for autonomous driving in lane-changing scenarios. Transportation Research Part C: Emerging Technologies, 171, 104962.[[link](https://www.sciencedirect.com/science/article/pii/S0968090X24004832)]
 
