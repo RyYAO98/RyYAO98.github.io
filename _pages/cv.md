@@ -80,7 +80,7 @@ Selected Honors & Awards
 
 Professional Services
 ======
-* Reviewer: IEEE IROS
+* Reviewer: IEEE IROS, IEEE ITSC
 * Teaching Assistant:
   * HKUST(GZ) ROAS6000I - Optimal Control Systems (Instructor: Prof. Jun MA)
   * HKUST(GZ) INTR5210 - Game Theoretical Methods in Transportation (Instructor: Prof. Xiaotong SUN)
