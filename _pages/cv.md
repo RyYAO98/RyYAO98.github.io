@@ -18,6 +18,8 @@ Education
 
 Publications/Working papers
 ======
+**Yao, R.**, Liu, P., Ma, J.\* (2025). LUNA-AD: Lightweight Uncertainty-Aware Language Model for Autonomous Driving with Lifelong Learning. (in preparation)
+
 * Peng, M., Xie, Y., Guo, X., **Yao, R.**, Yang, H., Ma, J.\* (2025). LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios. [[link](https://arxiv.org/abs/2505.11247)] (under review by Transportation Research Part C: Emerging Technologies)
 
 * Peng, M., **Yao, R.**, Guo, X., Xie, Y., Chen, X., Ma, J.\* (2025). Safety-Critical Traffic Simulation with Guided Latent Diffusion Model. [[link](https://arxiv.org/abs/2505.00515)] (accepted to ITSC 2025)
