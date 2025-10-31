@@ -20,15 +20,19 @@ Publications/Working papers
 ======
 * **Yao, R.**, Liu, P., Ma, J.\* (2025). LUNA-AD: Lightweight Uncertainty-Aware Language Model for Autonomous Driving with Lifelong Learning. (in preparation)
 
-* Peng, M., Xie, Y., Guo, X., **Yao, R.**, Yang, H., Ma, J.\* (2025). LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios. [[link](https://arxiv.org/abs/2505.11247)] (under review by Transportation Research Part C: Emerging Technologies)
+* Liu, P., Lu, H., Liu, H., Liu, H., Liu, X., **Yao, R.**, Li, S., & Ma, J.\* (2025). OmniScene: Attention-Augmented Multimodal 4D Scene Understanding for Autonomous Driving. [[link](https://arxiv.org/abs/2509.19973)]
 
-* Peng, M., **Yao, R.**, Guo, X., Xie, Y., Chen, X., Ma, J.\* (2025). Safety-Critical Traffic Simulation with Guided Latent Diffusion Model. [[link](https://arxiv.org/abs/2505.00515)] (accepted to ITSC 2025)
+* Zhong, R., **Yao, R.**, Liu, P., Chen, X., Yang, R., & Ma, J.\* (2025). CoPlanner: An Interactive Motion Planner with Contingency-Aware Diffusion for Autonomous Driving. [[link](https://arxiv.org/abs/2509.17080)]
 
-* Liu, P., Liu, X., **Yao, R.**, Liu, J., Meng, S., Wang, D., Ma, J.\* (2025). HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation. [[link](https://arxiv.org/abs/2504.12330)] (accepted to ACMMM 2025)
+* Peng, M., Xie, Y., Guo, X., **Yao, R.**, Yang, H., & Ma, J.\* (2025). LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios. [[link](https://arxiv.org/abs/2505.11247)]
 
-* Liu, H., **Yao, R.**, Liu, W., Huang, Z, Shen, S., & Ma, J.\* (2025). CoDriveVLM: VLM-Enhanced Urban Cooperative Dispatching and Motion Planning for Future Autonomous Mobility on Demand Systems. [[link](https://arxiv.org/abs/2501.06132)] (under review by IEEE Transactions on Intelligent Transportation Systems)
+* Peng, M., **Yao, R.**, Guo, X., Xie, Y., Chen, X., & Ma, J.\* (2025). Safety-Critical Traffic Simulation with Guided Latent Diffusion Model. [[link](https://arxiv.org/abs/2505.00515)] (accepted to ITSC 2025)
 
-* **Yao, R.**, Wang, Y., Liu, H., Yang, R., Peng, Z., Zhu, L., & Ma, J.\* (2024). CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model. arXiv preprint arXiv:2412.04209.[[link](https://arxiv.org/abs/2412.04209)] (under review by IEEE Transactions on Vehicular Technology)
+* Liu, P., Liu, X., **Yao, R.**, Liu, J., Meng, S., Wang, D., & Ma, J.\* (2025). HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation. [[link](https://arxiv.org/abs/2504.12330)] (accepted to ACMMM 2025)
+
+* Liu, H., **Yao, R.**, Liu, W., Huang, Z, Shen, S., & Ma, J.\* (2025). CoDriveVLM: VLM-Enhanced Urban Cooperative Dispatching and Motion Planning for Future Autonomous Mobility on Demand Systems. [[link](https://arxiv.org/abs/2501.06132)]
+
+* **Yao, R.**, Wang, Y., Liu, H., Yang, R., Peng, Z., Zhu, L., & Ma, J.\* (2024). CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model. arXiv preprint arXiv:2412.04209.[[link](https://arxiv.org/abs/2412.04209)]
 
 * Liu, H., **Yao, R.**, Huang, Z., Shen, S., & Ma, J.\* (2024). LMMCoDrive: Cooperative Driving with Large Multimodal Model. arXiv preprint arXiv:2409.11981.[[link](https://arxiv.org/abs/2409.11981)] (accepted to IROS 2025)
 
@@ -39,6 +43,13 @@ Publications/Working papers
 * Lin, Z., He, Z.\*, **Yao, R.**, Wang, X., Liu, T., Deng, Y., & Xie, S. (2022). Deep dual attention network for precise diagnosis of covid-19 from chest ct images. IEEE Transactions on Artificial Intelligence. [[link](https://ieeexplore.ieee.org/abstract/document/9965606?casa_token=1YA5Dal6dGUAAAAA:VTT0zr6uE6-kgGUJYoEMLy5EyEVd2LNQ0WCjsIPttDPs1kwI41yAqayR8YCZf5df0iyA9JMbpywW2A)]
 
 * **Yao, R.**, Zeng, W.\*, Chen, Y., & He, Z. (2021). A deep learning framework for modelling left-turning vehicle behaviour considering diagonal-crossing motorcycle conflicts at mixed-flow intersections. *Transportation research part C: emerging technologies*, 132, 103415. \[[link](https://www.sciencedirect.com/science/article/pii/S0968090X21004095?casa_token=8HVnu5TwNUEAAAAA:Xd1y_ol0bzIKDdBls3o5K2fn8BjPebBTJ5OkSHGPVM-c9cvmr9Mr8rWfdih_JHMGwIrHMveR6TI)\]
+
+
+Internship
+======
+* **HUAWEI 2012 Lab， 2025.09-present**
+  * Collaborative Project: xxx
+  * Position: Postgraduate Student Project Manager, Researcher
 
 Research Experience
 ======
@@ -82,7 +93,7 @@ Selected Honors & Awards
 
 Professional Services
 ======
-* Reviewer: IEEE IROS, IEEE ITSC
+* Reviewer: T-ITS, ICRA, IROS, IV, ITSC
 * Teaching Assistant:
   * HKUST(GZ) ROAS6000I - Optimal Control Systems (Instructor: Prof. Jun MA)
   * HKUST(GZ) INTR5210 - Game Theoretical Methods in Transportation (Instructor: Prof. Xiaotong SUN)
@@ -97,4 +108,4 @@ Computer Skills
 * Programming Languages: Python, C
 * Machine Learning & Optimization Frameworks: PyTorch, NumPy, OpenAI Gym, CVXPY, GAMS
 
-*updated in AUG. 2025*
+*updated in OCT. 2025*
