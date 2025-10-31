@@ -49,7 +49,7 @@ Internship
 ======
 * **HUAWEI 2012 Lab， 2025.09-present**
   * Collaborative Project: xxx
-  * Position: Postgraduate Student Project Manager, Researcher
+  * Position: Student Project Coordinator, Researcher
 
 Research Experience
 ======
