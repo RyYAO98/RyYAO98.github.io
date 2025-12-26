@@ -48,7 +48,7 @@ Publications/Working papers
 Internship
 ======
 * **HUAWEI 2012 Lab， 2025.09-present**
-  * Collaborative Project: xxx
+  * Collaborative Project: Vision Language Action Model for Autonomous Driving in Complex and Unstructured Environments
   * Position: Student Project Coordinator, Researcher
 
 Research Experience
