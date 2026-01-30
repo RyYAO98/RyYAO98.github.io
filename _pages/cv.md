@@ -24,7 +24,7 @@ Internship
 
 Publications/Working papers
 ======
-* **Yao, R.**, Liu, P., Zhong, R., Peng M., Yang R., & Ma, J.\* (2025). LUNA-AD: Lightweight Uncertainty-Aware Language Model with Lifelong Learning for Autonomous Driving.
+* **Yao, R.**, Liu, P., Zhong, R., Peng M., Yang R., & Ma, J.\* (2026). LUNA-AD: Lightweight Uncertainty-Aware Language Model with Lifelong Learning for Autonomous Driving.
 
 * Yang, R., Zheng L., **Yao, R.**, & Ma, J.\* (2026). DualShield: Safe Model Predictive Diffusion via Reachability Analysis for Interactive Autonomous Driving. *arXiv preprint arXiv:2601.15729*. [[link](https://arxiv.org/abs/2601.15729)]
 
