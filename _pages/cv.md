@@ -18,7 +18,11 @@ Education
 
 Publications/Working papers
 ======
-* **Yao, R.**, Liu, P., Ma, J.\* (2025). LUNA-AD: Lightweight Uncertainty-Aware Language Model for Autonomous Driving with Lifelong Learning. (in preparation)
+* **Yao, R.**, Liu, P., Zhong, R., Peng M., Yang R., & Ma, J.\* (2025). LUNA-AD: Lightweight Uncertainty-Aware Language Model with Lifelong Learning for Autonomous Driving.
+
+* Yang, R., Zheng L., **Yao, R.**, & Ma, J.\* (2026). DualShield: Safe Model Predictive Diffusion via Reachability Analysis for Interactive Autonomous Driving. [[link](https://arxiv.org/abs/2601.15729)]
+
+* Peng, M., **Yao, R.**, Guo, X., & Ma, J.\* (2025). nuPlan-R: A Closed-Loop Planning Benchmark for Autonomous Driving via Reactive Multi-Agent Simulation. [[link](https://arxiv.org/abs/2511.10403)] (accepted to IV 2026)
 
 * Liu, P., Lu, H., Liu, H., Liu, H., Liu, X., **Yao, R.**, Li, S., & Ma, J.\* (2025). OmniScene: Attention-Augmented Multimodal 4D Scene Understanding for Autonomous Driving. [[link](https://arxiv.org/abs/2509.19973)]
 
