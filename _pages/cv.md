@@ -18,27 +18,28 @@ Education
 
 Internship
 ======
-* **HUAWEI 2012 Lab, 2025.08-2025.12**
+* **HUAWEI 2012 Lab, Central Media Technology Institute**
   * Collaborative Project: Vision Language Action Model for Autonomous Driving in Complex and Unstructured Environments
   * Position: Student Project Coordinator, Researcher
+  * Duration: 2025.09-2025.12 (onsite), 2026.01-*present* (online).
 
 Publications/Working papers
 ======
 * **Yao, R.**, Liu, P., Zhong, R., Peng M., Yang R., & Ma, J.\* (2026). LUNA-AD: Lightweight Uncertainty-Aware Language Model with Lifelong Learning for Autonomous Driving.
 
-* Yang, R., Zheng L., **Yao, R.**, & Ma, J.\* (2026). DualShield: Safe Model Predictive Diffusion via Reachability Analysis for Interactive Autonomous Driving. *arXiv preprint arXiv:2601.15729*. [[link](https://arxiv.org/abs/2601.15729)]
+* Yang, R., Zheng L., **Yao, R.**, & Ma, J.\* (2026). DualShield: Safe Model Predictive Diffusion via Reachability Analysis for Interactive Autonomous Driving. *arXiv preprint arXiv:2601.15729*.[[link](https://arxiv.org/abs/2601.15729)]
 
-* Peng, M., **Yao, R.**, Guo, X., & Ma, J.\* (2025). nuPlan-R: A Closed-Loop Planning Benchmark for Autonomous Driving via Reactive Multi-Agent Simulation. *arXiv preprint arXiv:2511.10403*. [[link](https://arxiv.org/abs/2511.10403)] (accepted to IV 2026)
+* Peng, M., **Yao, R.**, Guo, X., & Ma, J.\* (2025). nuPlan-R: A Closed-Loop Planning Benchmark for Autonomous Driving via Reactive Multi-Agent Simulation. *arXiv preprint arXiv:2511.10403*.[[link](https://arxiv.org/abs/2511.10403)] (accepted to IV 2026)
 
-* Liu, P., Lu, H., Liu, H., Liu, H., Liu, X., **Yao, R.**, Li, S., & Ma, J.\* (2025). OmniScene: Attention-Augmented Multimodal 4D Scene Understanding for Autonomous Driving. *arXiv preprint arXiv:2509.19973*. [[link](https://arxiv.org/abs/2509.19973)]
+* Liu, P., Lu, H., Liu, H., Liu, H., Liu, X., **Yao, R.**, Li, S., & Ma, J.\* (2025). OmniScene: Attention-Augmented Multimodal 4D Scene Understanding for Autonomous Driving. *arXiv preprint arXiv:2509.19973*.[[link](https://arxiv.org/abs/2509.19973)]
 
-* Zhong, R., **Yao, R.**, Liu, P., Chen, X., Yang, R., & Ma, J.\* (2025). CoPlanner: An Interactive Motion Planner with Contingency-Aware Diffusion for Autonomous Driving. *arXiv preprint arXiv:2509.17080*. [[link](https://arxiv.org/abs/2509.17080)]
+* Zhong, R., **Yao, R.**, Liu, P., Chen, X., Yang, R., & Ma, J.\* (2025). CoPlanner: An Interactive Motion Planner with Contingency-Aware Diffusion for Autonomous Driving. *arXiv preprint arXiv:2509.17080*.[[link](https://arxiv.org/abs/2509.17080)]
 
-* Peng, M., Xie, Y., Guo, X., **Yao, R.**, Yang, H., & Ma, J.\* (2025). LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios. *arXiv preprint arXiv:2505.11247*. [[link](https://arxiv.org/abs/2505.11247)]
+* Peng, M., Xie, Y., Guo, X., **Yao, R.**, Yang, H., & Ma, J.\* (2025). LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios. *arXiv preprint arXiv:2505.11247*.[[link](https://arxiv.org/abs/2505.11247)]
 
-* Peng, M., **Yao, R.**, Guo, X., Xie, Y., Chen, X., & Ma, J.\* (2025). Safety-Critical Traffic Simulation with Guided Latent Diffusion Model. *arXiv preprint arXiv:2505.00515*. [[link](https://arxiv.org/abs/2505.00515)] (accepted to ITSC 2025)
+* Peng, M., **Yao, R.**, Guo, X., Xie, Y., Chen, X., & Ma, J.\* (2025). Safety-Critical Traffic Simulation with Guided Latent Diffusion Model. *arXiv preprint arXiv:2505.00515*.[[link](https://arxiv.org/abs/2505.00515)] (accepted to ITSC 2025)
 
-* Liu, P., Liu, X., **Yao, R.**, Liu, J., Meng, S., Wang, D., & Ma, J.\* (2025). HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation. In *proceedings of the 33rd ACM international conference on multimedia*, pp. 2781-2790. [[link](https://dl.acm.org/doi/abs/10.1145/3746027.3754761)]
+* Liu, P., Liu, X., **Yao, R.**, Liu, J., Meng, S., Wang, D., & Ma, J.\* (2025). HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation. In *proceedings of the 33rd ACM international conference on multimedia*, pp. 2781-2790.[[link](https://dl.acm.org/doi/abs/10.1145/3746027.3754761)]
 
 * Liu, H., **Yao, R.**, Liu, W., Huang, Z, Shen, S., & Ma, J.\* (2025). CoDriveVLM: VLM-Enhanced Urban Cooperative Dispatching and Motion Planning for Future Autonomous Mobility on Demand Systems. *arXiv preprint arXiv:2501.06132*.[[link](https://arxiv.org/abs/2501.06132)]
 
@@ -50,9 +51,9 @@ Publications/Working papers
 
 * **Yao, R.**, & Sun, X.\* (2024). Hierarchical Uncertainty-aware Autonomous Driving in Lane-changing Scenarios: Behavior Prediction and Motion Planning. In *proceedings of IEEE Intelligent Vehicles Symposium (IV)*, pp. 715-721.[[link](https://ieeexplore.ieee.org/abstract/document/10588739?casa_token=7USZ_-HCQKQAAAAA:8ZIXXdekEba2UFFe0eq16kJSBv-UbrG3P-0fXbPbPmNqagbRBp1WgN3Zpd0QYvAWS63YyS85oalx)]
 
-* Lin, Z., He, Z.\*, **Yao, R.**, Wang, X., Liu, T., Deng, Y., & Xie, S. (2022). Deep dual attention network for precise diagnosis of covid-19 from chest ct images. *IEEE Transactions on Artificial Intelligence*, vol. 5, no. 1, pp. 104-114. [[link](https://ieeexplore.ieee.org/abstract/document/9965606?casa_token=1YA5Dal6dGUAAAAA:VTT0zr6uE6-kgGUJYoEMLy5EyEVd2LNQ0WCjsIPttDPs1kwI41yAqayR8YCZf5df0iyA9JMbpywW2A)]
+* Lin, Z., He, Z.\*, **Yao, R.**, Wang, X., Liu, T., Deng, Y., & Xie, S. (2022). Deep dual attention network for precise diagnosis of covid-19 from chest ct images. *IEEE Transactions on Artificial Intelligence*, vol. 5, no. 1, pp. 104-114.[[link](https://ieeexplore.ieee.org/abstract/document/9965606?casa_token=1YA5Dal6dGUAAAAA:VTT0zr6uE6-kgGUJYoEMLy5EyEVd2LNQ0WCjsIPttDPs1kwI41yAqayR8YCZf5df0iyA9JMbpywW2A)]
 
-* **Yao, R.**, Zeng, W.\*, Chen, Y., & He, Z. (2021). A deep learning framework for modelling left-turning vehicle behaviour considering diagonal-crossing motorcycle conflicts at mixed-flow intersections. *Transportation research part C: emerging technologies*, vol. 132, pp. 103415. \[[link](https://www.sciencedirect.com/science/article/pii/S0968090X21004095?casa_token=8HVnu5TwNUEAAAAA:Xd1y_ol0bzIKDdBls3o5K2fn8BjPebBTJ5OkSHGPVM-c9cvmr9Mr8rWfdih_JHMGwIrHMveR6TI)\]
+* **Yao, R.**, Zeng, W.\*, Chen, Y., & He, Z. (2021). A deep learning framework for modelling left-turning vehicle behaviour considering diagonal-crossing motorcycle conflicts at mixed-flow intersections. *Transportation research part C: emerging technologies*, vol. 132, pp. 103415.\[[link](https://www.sciencedirect.com/science/article/pii/S0968090X21004095?casa_token=8HVnu5TwNUEAAAAA:Xd1y_ol0bzIKDdBls3o5K2fn8BjPebBTJ5OkSHGPVM-c9cvmr9Mr8rWfdih_JHMGwIrHMveR6TI)\]
 
 Research Experience
 ======
@@ -110,5 +111,6 @@ Computer Skills
 ======
 * Programming Languages: Python, C
 * Machine Learning & Optimization Frameworks: PyTorch, NumPy, OpenAI Gym, CVXPY, GAMS
+* Autonomous Driving Platforms: nuPlan, Carla, dSpace
 
-*updated in OCT. 2025*
+*updated in JAN. 2026*
