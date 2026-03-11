@@ -27,7 +27,15 @@ Publications/Working papers
 ======
 * **Yao, R.**, Liu, P., Zhong, R., Peng M., Yang R., & Ma, J.\* (2026). LUNA-AD: Lightweight Uncertainty-Aware Language Model with Lifelong Learning for Autonomous Driving.
 
+* Bai, H., Li, A., **Yao, R.**, Zhao, X., Zhang, T., Zhang, X., Li, C., Gao, L.\*, & Ma, J. (2026). MULTI-ORFT: Stable Online Reinforcement Fine-Tuning on Diffusion-Based Multi-Agent Planning for Cooperative Driving.
+
+* Jia, H., **Yao, R.**, Zhong, R., Liu, P., & Ma, J.\* (2026). CoMoE-Planner: Command-Conditioned Mixture-of-Experts Trajectory Planner for Autonomous Driving.
+
+* Zhong, R., Chen X., **Yao, R.**, Liu, P., Li, T., & Ma, J.\* (2026). Corridor-Guided Diffusion for Geometrically Feasible Motion Planning in Autonomous Driving.
+
 * Yang, R., Zheng L., **Yao, R.**, & Ma, J.\* (2026). DualShield: Safe Model Predictive Diffusion via Reachability Analysis for Interactive Autonomous Driving. *arXiv preprint arXiv:2601.15729*.[[link](https://arxiv.org/abs/2601.15729)]
+
+* **Yao, R.**, Zhong, R., Liu, P., Peng M., Yang R., & Ma, J.\* (2026). Decision-Making with Lightweight Confidence-Aware Language Model for Autonomous Driving.
 
 * Peng, M., **Yao, R.**, Guo, X., & Ma, J.\* (2025). nuPlan-R: A Closed-Loop Planning Benchmark for Autonomous Driving via Reactive Multi-Agent Simulation. *arXiv preprint arXiv:2511.10403*.[[link](https://arxiv.org/abs/2511.10403)] (accepted to IV 2026)
 
