@@ -23,7 +23,7 @@ Internship
   * Position: Student Project Coordinator, Researcher
   * Duration: 2025.09-2025.12 (onsite), 2026.01-*present* (online).
 
-Publications/Working papers
+Publications/Under-Review Papers
 ======
 * **Yao, R.**, Liu, P., Zhong, R., Peng M., Yang R., & Ma, J.\* (2026). LUNA-AD: Lightweight Uncertainty-Aware Language Model with Lifelong Learning for Autonomous Driving.
 
